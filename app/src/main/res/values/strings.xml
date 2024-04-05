@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculadora Notas</string>
+    <string name="qtde_faltas">Quantidade faltas</string>
+    <string name="nota_prova">Nota prova</string>
+    <string name="nota_atividade_2">Nota atividade 2</string>
+    <string name="nota_atividade_1">Nota atividade 1</string>
+    <string name="nome_da_disciplina">Nome da disciplina</string>
+    <string name="nome_do_aluno">Nome do aluno</string>
+    <string name="avaliar_aluno">Avaliar Aluno</string>
+    <string name="limpar">Limpar</string>
+    <string name="deslogar">Deslogar</string>
+</resources>
